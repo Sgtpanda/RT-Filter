@@ -1,0 +1,45 @@
+.post-stamp, .schedule-copy{
+  color: white !important;
+}
+
+.roosterteeth-com{
+  background-color: #9e1d22;
+}
+.achievementhunter-roosterteeth-com{
+  background-color:  #5f9f41;
+}
+.funhaus-roosterteeth-com{
+  background-color:  #fe8204;
+}
+.screwattack-roosterteeth-com{
+  background-color:  #00aeef;
+}
+.gameattack-roosterteeth-com{
+  background-color:  #8b54dc;
+}
+.theknow-roosterteeth-com{
+  background-color:  #00639d;
+}
+.cowchop-roosterteeth-com{
+  background-color:  #d5b037;
+}
+
+.sugarpine7-roosterteeth-com{
+  background-color:  #03A86C;
+}
+
+.filter > h3{
+  margin: 0 10px;
+}
+
+.filter > button:hover, .filter > button:focus{
+  color: #9e1d22 !important;
+}
+
+.filter{
+  border-bottom: 3px solid #9e1d22;
+  padding-bottom: 0.8em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
