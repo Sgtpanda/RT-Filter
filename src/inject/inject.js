@@ -6,7 +6,7 @@ urls.each(function(){
 	oReq.addEventListener("load", function(){
 		colourise(this.responseURL,elem)
 	});
-	oReq.open("HEAD", elem.href);
+	oReq.open("HEAD", elem.href.replace("http://","https://"));
 	oReq.send();
 });
 
