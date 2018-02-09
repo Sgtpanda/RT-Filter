@@ -40,6 +40,7 @@ $(filter).append('<button data-partner="gameattack-roosterteeth-com">Game Attack
 $(filter).append('<button data-partner="theknow-roosterteeth-com">The Know</button>');
 $(filter).append('<button data-partner="cowchop-roosterteeth-com">Cow Chop</button>');
 $(filter).append('<button data-partner="sugarpine7-roosterteeth-com">Sugar Pine 7</button>');
+$(filter).append('<button data-partner="jtmusic-roosterteeth-com">JT Music</button>');
 $(filter).addClass("filter");
 
 $('button',filter).click(function(){

@@ -1,6 +1,6 @@
 {
   "name": "Better RT Schedule Page",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Various improvements for the Roosterteeth Schedule Page",
   "icons": {
@@ -24,7 +24,7 @@
       "css": [
         "src/inject/inject.css"
       ],
-      "run_at":"document_idle"
+      "run_at":"document_end"
     }
   ]
 }

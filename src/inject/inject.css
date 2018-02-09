@@ -2,30 +2,38 @@
   color: white !important;
 }
 
-.roosterteeth-com{
+li[class$="roosterteeth-com"]{
+  background-color: grey;
+}
+
+li.roosterteeth-com{
   background-color: #9e1d22;
 }
-.achievementhunter-roosterteeth-com{
+li.achievementhunter-roosterteeth-com{
   background-color:  #5f9f41;
 }
-.funhaus-roosterteeth-com{
+li.funhaus-roosterteeth-com{
   background-color:  #fe8204;
 }
-.screwattack-roosterteeth-com{
+li.screwattack-roosterteeth-com{
   background-color:  #00aeef;
 }
-.gameattack-roosterteeth-com{
+li.gameattack-roosterteeth-com{
   background-color:  #8b54dc;
 }
-.theknow-roosterteeth-com{
+li.theknow-roosterteeth-com{
   background-color:  #00639d;
 }
-.cowchop-roosterteeth-com{
+li.cowchop-roosterteeth-com{
   background-color:  #d5b037;
 }
 
-.sugarpine7-roosterteeth-com{
+li.sugarpine7-roosterteeth-com{
   background-color:  #03A86C;
+}
+
+li.jtmusic-roosterteeth-com{
+  background-color:  #FC1334;
 }
 
 .filter > h3{
